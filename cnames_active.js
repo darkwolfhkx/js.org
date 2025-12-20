@@ -38,7 +38,8 @@
  */
 
 var cnames_active = {
-  "shop": "https://abdullahxshop.netlify.app",
+  "mart": "mart1144.netlify.app",
+  "shop": "abdullahxshop.netlify.app",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
